@@ -7,6 +7,8 @@ use the requirements.txt file and the virtual environment to install
 
 
 # how to use
+first create a folder called data and throw your pngs in there
+then run the following commands
 ```
 python prepdata.py
 python pokegan.py
